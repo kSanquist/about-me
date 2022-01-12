@@ -4,7 +4,7 @@
 ### I’m currently learning all there is to learn about Computer Science
 ### I’m looking to collaborate on Anything that involves the subjects I'm interested in
 
-## How to reach me                                                                              
+## HOW TO REACH ME                                                                             
 Email: kylesanquist@gmail.com                                                                  
 Reddit: https://www.reddit.com/user/20dollarsIst20
 
