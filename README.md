@@ -9,6 +9,6 @@ Email: kylesanquist@gmail.com
 Reddit: https://www.reddit.com/user/20dollarsIst20
 
 ## MY GOALS
- - Get into MIT
+ - Get into somewhere, at least
  - Master programming
  - Take over the world
