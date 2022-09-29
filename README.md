@@ -6,7 +6,7 @@
 
 ## HOW TO REACH ME                                                                             
 Email: kylesanquist@gmail.com                                                                  
-Email: ksanquis@ucsc.edu
+Email: ksanquis@ucsc.edu  
 Reddit: https://www.reddit.com/user/20dollarsIst20
 
 ## MY GOALS
