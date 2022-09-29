@@ -1,13 +1,8 @@
 # Hi, I’m @kSanquist
 
-### I’m interested in Computer Science
+### I’m interested in Computer Science, Artificial Intelligence, and Quantum Computing
 ### I’m pursuing this interest as a major at UCSC for a year and then transfering to Georgia Tech Fall of 2023
 ### I’m looking to collaborate on anything that involves the subjects I'm interested in
-
-## SUBJECTS I'M INTERESTED IN
- - Python programming
- - Artificial Intelligence
- - Quantum Computing
 
 ## HOW TO REACH ME                                                                             
 Email: kylesanquist@gmail.com                                                                  
