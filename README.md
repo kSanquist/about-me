@@ -1,7 +1,8 @@
 # Hi, I’m Kyle Sanquist (@kSanquist)
 
 ### I’m interested in Computer Science, Artificial Intelligence, and Quantum Computing
-### I’m pursuing this interest as a major at UCSC for a year and then transfering to Georgia Tech Fall of 2023
+### I’m currently enrolled at UC Santa Cruz as a freshmen as of Fall 2022
+### I plan to do a year at UCSC and transfer to Georgia Tech as of Fall 2023
 ### I’m looking to collaborate on anything that involves the subjects I'm interested in
 
 ## HOW TO REACH ME                                                                             
