@@ -1,4 +1,4 @@
-# Hi, I’m @kSanquist
+# Hi, I’m Kyle Sanquist (@kSanquist)
 
 ### I’m interested in Computer Science, Artificial Intelligence, and Quantum Computing
 ### I’m pursuing this interest as a major at UCSC for a year and then transfering to Georgia Tech Fall of 2023
@@ -8,6 +8,7 @@
 Main Email: kylesanquist@gmail.com                                                                  
 School Email: ksanquis@ucsc.edu  
 Reddit: https://www.reddit.com/user/20dollarsIst20
+Instagram: @101percentkyle.2.0  
 
 ## MY GOALS
  - Graduate from Georgia Tech with my bachelors in Comp Sci
