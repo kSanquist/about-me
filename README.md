@@ -7,7 +7,7 @@
 ## HOW TO REACH ME                                                                             
 Main Email: kylesanquist@gmail.com                                                                  
 School Email: ksanquis@ucsc.edu  
-Reddit: https://www.reddit.com/user/20dollarsIst20
+Reddit: https://www.reddit.com/user/20dollarsIst20  
 Instagram: @101percentkyle.2.0  
 
 ## MY GOALS
