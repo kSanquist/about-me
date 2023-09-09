@@ -1,7 +1,8 @@
 # Hi, I’m Kyle Sanquist (@kSanquist)
 
-### I’m interested in Computer Science, Artificial Intelligence, and Quantum Computing
-### I’m currently enrolled at the Georgia Institute of Technology as a sophomore as of Fall 2023
+### Interests : Computer Science, Artificial Intelligence, and Quantum Computing
+### Education : Georgia Institute of Technology (Fall 2023 - Present)
+### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of California, Santa Cruz (Fall 2022 - Spring 2023)
 ### I’m looking to collaborate on anything that involves the subjects I'm interested in
 
 ## HOW TO REACH ME                                                                             
