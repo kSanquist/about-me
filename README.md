@@ -8,10 +8,9 @@
 ### I’m looking to collaborate on anything that involves the subjects I'm interested in
 
 ## HOW TO REACH ME                                                                             
-Main Email: kylesanquist@gmail.com                                                                  
-School Email: ksanquist3@gatech.edu  
-Reddit: https://www.reddit.com/user/20dollarsIst20  
-Instagram: @101percentkyle.2.0  
+&nbsp;   Main Email &nbsp; -> &nbsp; kylesanquist@gmail.com                                                                  
+School Email &nbsp; -> &nbsp; ksanquist3@gatech.edu  
+&nbsp; &nbsp; &nbsp;   LinkedIn &nbsp; -> &nbsp; https://www.linkedin.com/in/kyle-sanquist/ 
 
 ## MY GOALS
  - Graduate from Georgia Tech with my bachelors in Computer Science
